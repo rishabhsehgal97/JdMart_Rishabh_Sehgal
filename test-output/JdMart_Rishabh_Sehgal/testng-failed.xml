@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [JdMart_Rishabh_Sehgal]">
+  <listeners>
+    <listener class-name="Utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="JdMart(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="TestCases.TC_003">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="RFQTest"/>
+        </methods>
+      </class> <!-- TestCases.TC_003 -->
+    </classes>
+  </test> <!-- JdMart(failed) -->
+</suite> <!-- Failed suite [JdMart_Rishabh_Sehgal] -->

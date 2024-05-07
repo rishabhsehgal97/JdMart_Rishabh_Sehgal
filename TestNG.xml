@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="JdMart_Rishabh_Sehgal">
+
+	<listeners>
+
+		<listener class-name="Utilities.Reporting" />
+
+	</listeners>
+
+
+	<test name="JdMart">
+
+		<parameter name="browser" value="firefox">
+
+			<classes>
+
+				<class name="TestCases.TC_003" />
+				<!-- <class name="TestCases.TC_002"/> -->
+
+
+
+			</classes>
+
+		</parameter>
+	</test>
+
+
+
+
+
+
+
+
+</suite>

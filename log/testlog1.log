@@ -1,0 +1,122 @@
+2024-04-30 23:20:53,659 [main] INFO TestCases.TC_001 - URL is opened
+2024-04-30 23:20:53,900 [main] INFO TestCases.TC_001 - Dropdown selected
+2024-04-30 23:20:55,654 [main] INFO TestCases.TC_001 - Location Bangalore Selected from dropdown
+2024-04-30 23:20:58,189 [main] INFO TestCases.TC_001 - Health & Medical Category page opened 
+2024-04-30 23:20:59,706 [main] INFO TestCases.TC_001 - URl is Mathcing
+2024-04-30 23:24:12,130 [main] INFO JdMart - URL is opened
+2024-04-30 23:24:12,478 [main] INFO JdMart - Dropdown selected
+2024-04-30 23:24:14,224 [main] INFO JdMart - Location Bangalore Selected from dropdown
+2024-04-30 23:24:15,969 [main] INFO JdMart - Health & Medical Category page opened 
+2024-04-30 23:24:36,480 [main] INFO JdMart - URL is opened
+2024-04-30 23:24:36,733 [main] INFO JdMart - Dropdown selected
+2024-04-30 23:24:38,491 [main] INFO JdMart - Location Bangalore Selected from dropdown
+2024-04-30 23:24:41,310 [main] INFO JdMart - Health & Medical Category page opened 
+2024-04-30 23:24:42,828 [main] INFO JdMart - URl is Mathcing
+2024-04-30 23:57:44,615 [main] INFO JdMart - URL is opened
+2024-04-30 23:57:44,868 [main] INFO JdMart - Dropdown selected
+2024-04-30 23:58:05,665 [main] INFO JdMart - URL is opened
+2024-04-30 23:58:05,902 [main] INFO JdMart - Dropdown selected
+2024-04-30 23:58:07,654 [main] INFO JdMart - Location Bangalore Selected from dropdown
+2024-04-30 23:58:10,007 [main] INFO JdMart - Health & Medical Category page opened 
+2024-04-30 23:58:11,525 [main] INFO JdMart - URl is Mathcing
+2024-04-30 23:58:11,526 [main] INFO JdMart - ********************************************************************************************************************************
+2024-05-01 23:37:11,134 [main] INFO JdMart - URL is opened
+2024-05-01 23:37:11,382 [main] INFO JdMart - Dropdown selected
+2024-05-01 23:37:13,130 [main] INFO JdMart - Location Bangalore Selected from dropdown
+2024-05-01 23:37:15,868 [main] INFO JdMart - Health & Medical Category page opened 
+2024-05-01 23:37:17,386 [main] INFO JdMart - URl is Mathcing
+2024-05-01 23:37:17,388 [main] INFO JdMart - ********************************************************************************************************************************
+2024-05-02 00:04:54,306 [main] INFO JdMart - URL is opened
+2024-05-02 00:04:54,549 [main] INFO JdMart - Dropdown selected
+2024-05-02 00:04:56,319 [main] INFO JdMart - Location Bangalore Selected from dropdown
+2024-05-02 00:04:58,678 [main] INFO JdMart - Health & Medical Category page opened 
+2024-05-02 00:05:00,196 [main] INFO JdMart - URl is Mathcing
+2024-05-02 00:05:00,197 [main] INFO JdMart - ********************************************************************************************************************************
+2024-05-02 00:10:25,921 [main] INFO JdMart - URL is opened
+2024-05-02 00:10:26,176 [main] INFO JdMart - Dropdown selected
+2024-05-02 00:10:27,931 [main] INFO JdMart - Location Bangalore Selected from dropdown
+2024-05-02 00:10:30,185 [main] INFO JdMart - Health & Medical Category page opened 
+2024-05-02 00:10:31,696 [main] INFO JdMart - URl is Mathcing
+2024-05-02 00:10:31,697 [main] INFO JdMart - ********************************************************************************************************************************
+2024-05-02 00:14:37,712 [main] INFO JdMart - URL is opened
+2024-05-02 00:14:37,995 [main] INFO JdMart - Dropdown selected
+2024-05-02 00:14:39,749 [main] INFO JdMart - Location Bangalore Selected from dropdown
+2024-05-02 00:14:41,977 [main] INFO JdMart - Health & Medical Category page opened 
+2024-05-02 00:14:43,495 [main] INFO JdMart - URl is Mathcing
+2024-05-02 00:14:43,497 [main] INFO JdMart - ********************************************************************************************************************************
+2024-05-02 00:16:50,045 [main] INFO JdMart - URL is opened
+2024-05-02 00:16:50,285 [main] INFO JdMart - Dropdown selected
+2024-05-02 00:16:52,042 [main] INFO JdMart - Location Bangalore Selected from dropdown
+2024-05-02 00:16:53,793 [main] INFO JdMart - Health & Medical Category page opened 
+2024-05-02 00:19:39,763 [main] INFO JdMart - URL is opened
+2024-05-02 00:19:40,005 [main] INFO JdMart - Dropdown selected
+2024-05-02 00:19:41,757 [main] INFO JdMart - Location Bangalore Selected from dropdown
+2024-05-02 00:19:43,502 [main] INFO JdMart - Health & Medical Category page opened 
+2024-05-02 00:27:17,218 [main] INFO JdMart - URL is opened
+2024-05-02 00:27:17,457 [main] INFO JdMart - Dropdown selected
+2024-05-02 00:27:19,212 [main] INFO JdMart - Location Bangalore Selected from dropdown
+2024-05-02 00:27:20,957 [main] INFO JdMart - Health & Medical Category page opened 
+2024-05-02 00:29:15,837 [main] INFO JdMart - URL is opened
+2024-05-02 00:29:16,081 [main] INFO JdMart - Dropdown selected
+2024-05-02 00:29:17,836 [main] INFO JdMart - Location Bangalore Selected from dropdown
+2024-05-02 00:29:19,583 [main] INFO JdMart - Health & Medical Category page opened 
+2024-05-02 00:31:31,999 [main] INFO JdMart - URL is opened
+2024-05-02 00:31:32,244 [main] INFO JdMart - Dropdown selected
+2024-05-02 00:31:34,000 [main] INFO JdMart - Location Bangalore Selected from dropdown
+2024-05-02 00:31:35,770 [main] INFO JdMart - Health & Medical Category page opened 
+2024-05-02 00:31:37,286 [main] INFO JdMart - URl is Mathcing
+2024-05-02 00:31:37,288 [main] INFO JdMart - ********************************************************************************************************************************
+2024-05-02 00:32:17,094 [main] INFO JdMart - URL is opened
+2024-05-02 00:32:17,339 [main] INFO JdMart - Dropdown selected
+2024-05-02 00:32:19,093 [main] INFO JdMart - Location Bangalore Selected from dropdown
+2024-05-02 00:32:20,844 [main] INFO JdMart - Health & Medical Category page opened 
+2024-05-02 00:36:48,937 [main] INFO JdMart - URL is opened
+2024-05-02 00:36:49,182 [main] INFO JdMart - Dropdown selected
+2024-05-02 00:36:50,941 [main] INFO JdMart - Location Bangalore Selected from dropdown
+2024-05-02 00:36:53,189 [main] INFO JdMart - Health & Medical Category page opened 
+2024-05-02 00:36:54,705 [main] INFO JdMart - URl is Mathcing
+2024-05-02 00:36:54,707 [main] INFO JdMart - ********************************************************************************************************************************
+2024-05-02 00:38:17,843 [main] INFO JdMart - URL is opened
+2024-05-02 00:38:18,092 [main] INFO JdMart - Dropdown selected
+2024-05-02 00:38:19,848 [main] INFO JdMart - Location Bangalore Selected from dropdown
+2024-05-02 00:38:22,063 [main] INFO JdMart - Health & Medical Category page opened 
+2024-05-02 00:38:23,580 [main] INFO JdMart - URl is Mathcing
+2024-05-02 00:38:23,581 [main] INFO JdMart - ********************************************************************************************************************************
+2024-05-02 00:43:09,993 [main] INFO JdMart - URL is opened
+2024-05-02 00:43:10,246 [main] INFO JdMart - Dropdown selected
+2024-05-02 00:43:11,990 [main] INFO JdMart - Location Bangalore Selected from dropdown
+2024-05-02 00:43:14,251 [main] INFO JdMart - Health & Medical Category page opened 
+2024-05-02 00:43:15,769 [main] INFO JdMart - URl is Mathcing
+2024-05-02 00:43:15,770 [main] INFO JdMart - ********************************************************************************************************************************
+2024-05-02 00:43:51,510 [main] INFO JdMart - URL is opened
+2024-05-02 00:43:51,754 [main] INFO JdMart - Dropdown selected
+2024-05-02 00:43:53,511 [main] INFO JdMart - Location Bangalore Selected from dropdown
+2024-05-02 00:43:55,740 [main] INFO JdMart - Health & Medical Category page opened 
+2024-05-02 00:43:57,257 [main] INFO JdMart - URl is Mathcing
+2024-05-02 00:43:57,258 [main] INFO JdMart - ********************************************************************************************************************************
+2024-05-02 23:10:39,206 [main] INFO JdMart - URL is opened
+2024-05-02 23:10:39,458 [main] INFO JdMart - Dropdown selected
+2024-05-02 23:10:41,215 [main] INFO JdMart - Location Bangalore Selected from dropdown
+2024-05-02 23:10:43,528 [main] INFO JdMart - Health & Medical Category page opened 
+2024-05-02 23:10:45,040 [main] INFO JdMart - URl is Mathcing
+2024-05-02 23:10:45,041 [main] INFO JdMart - ********************************************************************************************************************************
+2024-05-02 23:25:53,943 [main] INFO JdMart - ********************************************************************************************************************************
+2024-05-02 23:25:53,946 [main] INFO JdMart - URL is opened
+2024-05-02 23:25:54,189 [main] INFO JdMart - Dropdown selected
+2024-05-02 23:25:55,948 [main] INFO JdMart - Location Bangalore Selected from dropdown
+2024-05-02 23:25:58,328 [main] INFO JdMart - Health & Medical Category page opened 
+2024-05-03 00:28:06,753 [main] INFO JdMart - ********************************************************************************************************************************
+2024-05-03 00:28:06,756 [main] INFO JdMart - URL is opened
+2024-05-03 00:28:07,003 [main] INFO JdMart - Dropdown selected
+2024-05-03 00:28:08,759 [main] INFO JdMart - Location Bangalore Selected from dropdown
+2024-05-03 00:28:11,061 [main] INFO JdMart - Health & Medical Category page opened 
+2024-05-03 00:28:12,572 [main] INFO JdMart - URl is Mathcing
+2024-05-03 00:28:12,573 [main] INFO JdMart - ********************************************************************************************************************************
+2024-05-03 00:28:12,573 [main] INFO JdMart -                                                                                           										 
+2024-05-06 17:45:39,876 [main] INFO JdMart - PFQPopup Heading is correct
+2024-05-06 17:52:46,989 [main] INFO JdMart - RFQPopup Heading is correct
+2024-05-06 17:52:48,737 [main] INFO JdMart - RFQPopup Closed
+2024-05-06 18:18:02,026 [main] INFO JdMart - RFQPopup Heading is correct
+2024-05-06 18:18:03,780 [main] INFO JdMart - RFQPopup Closed
+2024-05-06 18:35:10,328 [main] INFO JdMart - RFQPopup Heading is correct
+2024-05-06 18:35:12,076 [main] INFO JdMart - RFQPopup Closed
